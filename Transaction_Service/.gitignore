@@ -50,9 +50,9 @@ Thumbs.db
 
 # Docker
 .dockerignore
-config/
-repositories/
-routes/
+
+
+
 services/
 types/
 controllers/
